@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from dog import Dog
+from lib.dog import Dog
 
 import io
 import sys
